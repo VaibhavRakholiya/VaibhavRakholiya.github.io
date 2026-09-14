@@ -1,3 +1,36 @@
-{
-  
-}
+[
+    {
+    "title": "AI Image Prompt",
+    "summary": "Easily browse and copy trending AI image prompts.",
+    "developer": "Epic Lotus Games",
+    "icon": "https://play-lh.googleusercontent.com/IRyZNcPU1rOlaNU_6jlNj_GKvnSj4hlEo555AGKpFssCumPsKHcMTI1CUrxOIczfkpIpQYIubqYbInLG2lqWIw",
+    "headerImage": "https://play-lh.googleusercontent.com/ZrnisTnfRHVRKdT_sequJq7P-r7dxO0rCyA4xhm4qums26wtHnBoiItFlHAVKTYTP2_BP_jBvKwVM-bMwh1oyA",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ARj-xEM07NB60WTwhLO6phulVwRDyrTHm4RTrpl3T6dTj9rFg-lRTQMf6dupHy7Cla14Mpi71YVEPq-4gsVd",
+      "https://play-lh.googleusercontent.com/RMlymfCjM-lnqKnC2Zhmlm5Siqn9fkI0DWe87pCt-QgcXRnD2tFRZ0r3vFninN7NusYxXwDK7w58idjfamYl",
+      "https://play-lh.googleusercontent.com/pQSZJ6cq9nnop0YdOD0m-9HLZNjyh8JoWI0xx4vjAQ4-mxzgN1yOI1QJHTf92voURAqR-0tFDQrkWqQdR_edog",
+      "https://play-lh.googleusercontent.com/wlCTr12QRqnWDcU7UGvomH_4-l8IzbCQAzxis_KEuHm09nZoKHc6fMhI-TzrnnEGoqyUHx3-PNHPnLX4bCfELyQ"
+    ],
+    "appId": "com.ai.image.prompt.generator.finder",
+    "url": "https://play.google.com/store/apps/details?id=com.ai.image.prompt.generator.finder&hl=en&gl=us",
+    "ctaColor": "#7814E9"
+  },
+  {
+    "title": "Fireworks Simulator & Prank",
+    "summary": "Enjoy fun and amazing fireworks simulation anywhere and anytime.",
+    "developer": "Epic Lotus Games",
+    "icon": "https://play-lh.googleusercontent.com/iNNfjaUcnXm8wvaCNTsN4cZzBaijiYpqMNbMEYgaxGHsGDfBtKXL4qXwinGiBXlitiWCkzq1mP-_uXKc--WQ",
+    "headerImage": "https://play-lh.googleusercontent.com/Ug7GoVswco1MEcvQp_I-ak5N1-XOVMfJreH-FpZGV-21LQ7veqMHjldVx8z7uzA87UMryFH39Yihg1CiR0QSaQ8",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/OZTJ53ZgtjYELY6C7r-OyUsoy1CPph9UaO4wesKaoavxSn-r_FCiXLUuuka2SOA1AZ6DAqeG2qfpT_LlKNlEzw",
+      "https://play-lh.googleusercontent.com/Zh93yN-0gMAVvYKDdkjEVZRgW0cvqFDZU2UPr3NOAEZzlB2u5PI8iQPK8pOLkyaFiUKcoeD0OJSo1zip5enKQwk",
+      "https://play-lh.googleusercontent.com/4bBaWTCMfDT24QKlDm8Xf7hQ1S4Wawea7_Y0JQEPV0Zr5yiHqew9g1f-34BhMAq7x4s_Dh6zLa1J_GKVCYn-",
+      "https://play-lh.googleusercontent.com/bLVSVbbWjRrwg7lScWnElrz-3phGjtXCKTkunUHUqFN17uQd6gAXekEFfKlAvXw4AqUNJ3jA5jnIgoJwI4QG",
+      "https://play-lh.googleusercontent.com/Ma0qlwadp0G3Z9852bo03zmQ-LRKbbXC9A4f-f9Amr1vp2klRP6AbUwJPYgrpjIP1WrGwVVFcRh3AoBkNWVo3Q",
+      "https://play-lh.googleusercontent.com/UkYCMQ5kiXv4mBdHJ9bC5zCahkOx0M7sY7vKqqhJnkHsXdyLsQ25dC1sVypy9dUZUjaiasnCzRy0QdNra9EA"
+    ],
+    "appId": "com.diwalicrackers.fireworks.simulation",
+    "url": "https://play.google.com/store/apps/details?id=com.diwalicrackers.fireworks.simulation&hl=en&gl=us",
+    "ctaColor": "#8126A1"
+  }
+]
