@@ -75,7 +75,8 @@
 "routing" : {
   "com.big.font.size.changer.app.resizer": [
       "com.qureka",
-      "com.gamezop"
+      "com.gamezop",
+      "com.ai.image.prompt.generator.finder"
     ]
 }
 }
