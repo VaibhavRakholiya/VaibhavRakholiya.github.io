@@ -1,12 +1,21 @@
 [
-       {
+    {
     "title": "Qureka",
     "icon": "https://via.placeholder.com/128?text=Qureka",
     "appId": "com.qureka",
     "imageOnly": true,
-    "nativeImage": "https://via.placeholder.com/1080x608?text=Qureka+Native",
-    "bannerImage": "https://via.placeholder.com/640x100?text=Qureka+Banner",
-    "interstitialImage": "https://via.placeholder.com/1080x1920?text=Qureka+Interstitial",
+    "nativeImage": [
+      "https://via.placeholder.com/1080x608?text=Qureka+Native+1",
+      "https://via.placeholder.com/1080x608?text=Qureka+Native+2"
+    ],
+    "bannerImage": [
+      "https://via.placeholder.com/640x100?text=Qureka+Banner+1",
+      "https://via.placeholder.com/640x100?text=Qureka+Banner+2"
+    ],
+    "interstitialImage": [
+      "https://via.placeholder.com/1080x1920?text=Qureka+Interstitial+1",
+      "https://via.placeholder.com/1080x1920?text=Qureka+Interstitial+2"
+    ],
     "url": "https://play.google.com/store/apps/details?id=com.qureka"
   },
   {
@@ -14,9 +23,18 @@
     "icon": "https://via.placeholder.com/128?text=Gamezop",
     "appId": "com.gamezop",
     "imageOnly": true,
-    "nativeImage": "https://via.placeholder.com/1080x608?text=Gamezop+Native",
-    "bannerImage": "https://via.placeholder.com/640x100?text=Gamezop+Banner",
-    "interstitialImage": "https://via.placeholder.com/1080x1920?text=Gamezop+Interstitial",
+    "nativeImage": [
+      "https://via.placeholder.com/1080x608?text=Gamezop+Native+1",
+      "https://via.placeholder.com/1080x608?text=Gamezop+Native+2"
+    ],
+    "bannerImage": [
+      "https://via.placeholder.com/640x100?text=Gamezop+Banner+1",
+      "https://via.placeholder.com/640x100?text=Gamezop+Banner+2"
+    ],
+    "interstitialImage": [
+      "https://via.placeholder.com/1080x1920?text=Gamezop+Interstitial+1",
+      "https://via.placeholder.com/1080x1920?text=Gamezop+Interstitial+2"
+    ],
     "url": "https://gamezop.com"
   },
     {
