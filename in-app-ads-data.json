@@ -1,7 +1,7 @@
 {"apps" : [
     {
     "title": "Qureka",
-    "icon": "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/QuerekaCreatives%2F1%20(11).png?alt=media&token=7cb90fef-ba90-4ccb-8d90-6cc919269564",
+    "icon": "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/QuerekaCreatives%2F1%20(11).png?alt=media",
     "appId": "com.qureka",
     "imageOnly": true,
     "nativeImage": [
@@ -19,7 +19,7 @@
   },
   {
     "title": "Gamezop",
-    "icon": "https://via.placeholder.com/128?text=Gamezop",
+    "icon": "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/QuerekaCreatives%2F1%20(11).png?alt=media",
     "appId": "com.gamezop",
     "imageOnly": true,
     "nativeImage": [
