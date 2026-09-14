@@ -1,4 +1,4 @@
-[
+{"apps" : [
     {
     "title": "Qureka",
     "icon": "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/QuerekaCreatives%2F1%20(11).png?alt=media&token=7cb90fef-ba90-4ccb-8d90-6cc919269564",
@@ -15,7 +15,7 @@
       "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/QuerekaCreatives%2F1280x720.jpg?alt=media",
       "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/QuerekaCreatives%2F2%20(2).jpg?alt=media"
     ],
-    "url": "https://play.google.com/store/apps/details?id=com.qureka"
+    "url": "1545.mark.qureka.com"
   },
   {
     "title": "Gamezop",
@@ -31,10 +31,9 @@
       "https://via.placeholder.com/640x100?text=Gamezop+Banner+2"
     ],
     "interstitialImage": [
-      "https://via.placeholder.com/1080x1920?text=Gamezop+Interstitial+1",
-      "https://via.placeholder.com/1080x1920?text=Gamezop+Interstitial+2"
+     "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/GameZopAds%2F1080x1920.png?alt=media"
     ],
-    "url": "https://gamezop.com"
+    "url": "https://10394.play.gamezop.com/"
   },
     {
     "title": "AI Image Prompt",
@@ -70,4 +69,13 @@
     "url": "https://play.google.com/store/apps/details?id=com.diwalicrackers.fireworks.simulation&hl=en&gl=us",
     "ctaColor": "#8126A1"
   }
-]
+],
+"routing" : {
+  "com.big.font.size.changer.app.resizer": [
+      "com.ai.image.prompt.generator.finder",
+      "com.diwalicrackers.fireworks.simulation",
+      "com.qureka",
+      "com.gamezop"
+    ]
+}
+}
