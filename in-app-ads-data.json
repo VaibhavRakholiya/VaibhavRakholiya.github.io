@@ -72,8 +72,6 @@
 ],
 "routing" : {
   "com.big.font.size.changer.app.resizer": [
-      "com.ai.image.prompt.generator.finder",
-      "com.diwalicrackers.fireworks.simulation",
       "com.qureka",
       "com.gamezop"
     ]
