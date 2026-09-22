@@ -1,6 +1,7 @@
 {"apps" : [
     {
     "title": "Qureka",
+    "summary": "Easily browse and copy trending AI image prompts.",
     "icon": "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/QuerekaCreatives%2F1%20(11).png?alt=media",
     "appId": "com.qureka",
     "imageOnly": true,
@@ -20,6 +21,7 @@
   },
   {
     "title": "Gamezop",
+    "summary": "Easily browse and copy trending AI image prompts.",
     "icon": "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/QuerekaCreatives%2F1%20(11).png?alt=media",
     "appId": "com.gamezop",
     "imageOnly": true,
