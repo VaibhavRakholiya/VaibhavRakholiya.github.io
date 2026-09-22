@@ -1,7 +1,7 @@
 {"apps" : [
     {
     "title": "Qureka",
-    "summary": "Easily browse and copy trending AI image prompts.",
+    "summary": "Play Quiz and Win Prices.",
     "icon": "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/QuerekaCreatives%2F1%20(11).png?alt=media",
     "appId": "com.qureka",
     "imageOnly": true,
@@ -18,11 +18,12 @@
     ],
     "url": "https://1545.mark.qureka.com",
     "ctaColor": "#8126A1",
+    "ctaText": "Play Now",
     "linkMode": "inAppBrowser"
   },
   {
     "title": "Gamezop",
-    "summary": "Easily browse and copy trending AI image prompts.",
+    "summary": "Play 100+ Games without downloading an app.",
     "icon": "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/QuerekaCreatives%2F1%20(11).png?alt=media",
     "appId": "com.gamezop",
     "imageOnly": true,
@@ -38,6 +39,7 @@
     ],
     "url": "https://10394.play.gamezop.com/",
     "ctaColor": "#8126A1",
+    "ctaText": "Play Now",
     "linkMode": "inAppBrowser"
   },
     {
@@ -54,7 +56,8 @@
     ],
     "appId": "com.ai.image.prompt.generator.finder",
     "url": "https://play.google.com/store/apps/details?id=com.ai.image.prompt.generator.finder&hl=en&gl=us",
-    "ctaColor": "#7814E9"
+    "ctaColor": "#7814E9",
+    "ctaText": "Install Now",
   },
   {
     "title": "Fireworks Simulator & Prank",
@@ -72,7 +75,8 @@
     ],
     "appId": "com.diwalicrackers.fireworks.simulation",
     "url": "https://play.google.com/store/apps/details?id=com.diwalicrackers.fireworks.simulation&hl=en&gl=us",
-    "ctaColor": "#8126A1"
+    "ctaColor": "#8126A1",
+    "ctaText": "Install Now",
   }
 ],
 "routing" : {
