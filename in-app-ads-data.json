@@ -26,8 +26,8 @@
     "appId": "com.gamezop",
     "imageOnly": true,
     "nativeImage": [
-      "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/GameZopAds%2F1080x1920.png?alt=media&token=79ca0bbd-368d-4899-93b8-d2a7d5394b89",
-      "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/GameZopAds%2Fcf8ccacd-f21e-4bc3-b1b6-1496801c1ce2.png?alt=media&token=38ff649d-59de-4ba6-9a2a-a91bca4b28fa"
+      "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/GameZopAds%2F1080x1920.png?alt=media",
+      "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/GameZopAds%2Fcf8ccacd-f21e-4bc3-b1b6-1496801c1ce2.png?alt=media"
     ],
     "bannerImage": [
       "https://via.placeholder.com/640x100?text=Gamezop+Banner+1",
