@@ -6,8 +6,8 @@
     "appId": "com.qureka",
     "imageOnly": true,
     "nativeImage": [
-      "https://via.placeholder.com/1080x608?text=Qureka+Native+1",
-      "https://via.placeholder.com/1080x608?text=Qureka+Native+2"
+      "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/QuerekaCreatives%2F1%20(2).jpg?alt=media&token=c5a18eb3-96b7-4958-ac08-c57a85140a12",
+      "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/QuerekaCreatives%2F1200x470.jpg?alt=media&token=64f67a53-be72-4381-aeba-1efeb95ef24d"
     ],
     "bannerImage": [
     "https://firebasestorage.googleapis.com/v0/b/ai-prompts-a7910.firebasestorage.app/o/QuerekaCreatives%2F1.jpg?alt=media"
