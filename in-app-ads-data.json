@@ -57,7 +57,7 @@
     "appId": "com.ai.image.prompt.generator.finder",
     "url": "https://play.google.com/store/apps/details?id=com.ai.image.prompt.generator.finder&hl=en&gl=us",
     "ctaColor": "#7814E9",
-    "ctaText": "Install Now",
+    "ctaText": "Install Now"
   },
   {
     "title": "Fireworks Simulator & Prank",
@@ -76,7 +76,7 @@
     "appId": "com.diwalicrackers.fireworks.simulation",
     "url": "https://play.google.com/store/apps/details?id=com.diwalicrackers.fireworks.simulation&hl=en&gl=us",
     "ctaColor": "#8126A1",
-    "ctaText": "Install Now",
+    "ctaText": "Install Now"
   }
 ],
 "routing" : {
