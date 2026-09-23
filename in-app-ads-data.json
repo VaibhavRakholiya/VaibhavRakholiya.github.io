@@ -86,10 +86,27 @@
       "com.ai.image.prompt.generator.finder"
     ]
 },
-  "waterfall": {
-    "banner": ["admob", "yandex"],
-    "native": ["admob", "yandex"],
-    "interstitial": ["admob", "yandex"],
-    "rewarded": ["admob", "yandex"]
+"waterfall": {
+    "com.big.font.size.changer.app.resizer": {
+      "banner": ["admob", "yandex"],
+      "native": ["admob", "yandex"],
+      "interstitial": ["admob", "yandex"],
+      "rewarded": ["yandex", "admob"]
+    }
+  },
+  "adUnitIds": {
+    "com.example.trailblazer": {
+      "admob": {
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "rewarded": "ca-app-pub-3940256099942544/5224354917"
+      },
+      "yandex": {
+        "banner": "demo-banner-yandex",
+        "interstitial": "demo-interstitial-yandex",
+        "rewarded": "demo-rewarded-yandex"
+      }
+    }
   }
 }
