@@ -85,5 +85,11 @@
       "com.gamezop",
       "com.ai.image.prompt.generator.finder"
     ]
-}
+},
+  "waterfall": {
+    "banner": ["admob", "yandex"],
+    "native": ["admob", "yandex"],
+    "interstitial": ["admob", "yandex"],
+    "rewarded": ["admob", "yandex"]
+  }
 }
