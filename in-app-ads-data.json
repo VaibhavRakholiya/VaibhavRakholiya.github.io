@@ -85,28 +85,5 @@
       "com.gamezop",
       "com.ai.image.prompt.generator.finder"
     ]
-},
-"waterfall": {
-    "com.big.font.size.changer.app.resizer": {
-      "banner": ["admob", "yandex"],
-      "native": ["admob", "yandex"],
-      "interstitial": ["admob", "yandex"],
-      "rewarded": ["yandex", "admob"]
-    }
-  },
-  "adUnitIds": {
-    "com.big.font.size.changer.app.resizer": {
-      "admob": {
-        "banner": "ca-app-pub-3333825692123454/1155963328",
-        "native": "ca-app-pub-3333825692123454/2754622046",
-        "interstitial": "ca-app-pub-3333825692123454/4879585917",
-        "appOpen": "ca-app-pub-3333825692123454/5038308521"
-      },
-      "yandex": {
-        "banner": "R-M-19417174-1",
-        "interstitial": "R-M-19417174-2",
-        "appOpen": "R-M-19417174-3"
-      }
-    }
-  }
+}
 }
